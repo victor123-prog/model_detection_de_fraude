@@ -35,7 +35,6 @@ Les fraudes représentent environ **1,7 %** des transactions : l'accuracy seule 
 
 Fichiers générés à l'exécution : `train_normalized.csv`, `data_test_normalized.csv`, `model_weights.pth`, `resultat.csv` (ainsi que `test_train.csv` et `test_test.csv`, intermédiaires de l'expérience 1).
 
-> Les CSV et le fichier `.pth` sont volumineux : pensez à les ajouter au `.gitignore`.
 
 ## Installation et utilisation
 
